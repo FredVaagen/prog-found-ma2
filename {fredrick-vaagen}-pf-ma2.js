@@ -4,7 +4,7 @@ var myPet = ["cat", "cow", "dog"];
 
 // question 2: Console log the value of the second item in petArray.
 
-console.log("cow");
+console.log(myPet[1]); 
 
 // question 3: Add the item "sheep" to petArray using the push method.
 
